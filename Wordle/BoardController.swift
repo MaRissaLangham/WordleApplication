@@ -77,9 +77,10 @@ class BoardController: NSObject,
   // Checkpoint: Correctly implementing this should allow you to change the number of rows in the board!
   private func applyNumGuessesSettings(with settings: [String: Any]) {
     // START YOUR CODE HERE
-    
-    // END YOUR CODE HERE
-  }
+      if let numGuesses = settings[kNumGuessesKey] as? Int
+      {
+          numRows = numGuesses
+      }
   
   // Exercise 3: Implement applyThemeSettings to change the goal word according to the theme
   // Tip 1: There is a constant `kWordThemeKey` in Constants.swift that you can use as the key to grab the theme as a String in the dictionary
@@ -88,9 +89,14 @@ class BoardController: NSObject,
   //    Use the `WordTheme(rawValue:)` initializer to pass-in the string from the dictionary to get the correct type
   // Checkpoint: Correctly implementing this should allow you to change the theme of the goal word! Use breakpoints or print statements
   // to check the before/after value of goalWord and see if it changes to the correct theme
-  private func applyThemeSettings(with settings: [String: Any]) {
+  private func applyThemeSettings(with settings: [String: Any])
+      {
     // START YOUR CODE HERE
-    // ...
+          if let rawTheme = settings[kWordThemeKey] as? String, let theme = WordTheme(rawValue: rawTheme)
+          {
+              goalWord = WordGenerator.generateGoalWord(with: theme)
+          }
+      }
     // END YOUR CODE HERE
   }
   
