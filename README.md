@@ -25,11 +25,11 @@ The following **additional** features are implemented:
 - [X] Improve and customize the user interface by adding an app icon
 - [X] Run the app on a device rather than in the simulator
 
-## Video Walkthrough
+## Video Walkthrough 
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here's a walkthrough of my Wordble App!
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![](https://sendspark.com/share/d4qv7rkf48smumrl)
 
 ## License
 
