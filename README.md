@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of my Wordble App!
 
-![](https://sendspark.com/share/d4qv7rkf48smumrl)
+(https://sendspark.com/share/d4qv7rkf48smumrl)
 
 ## License
 
