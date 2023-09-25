@@ -1,10 +1,10 @@
 # Project 2 - *Wordle App*
 
-Submitted by: **Marissa**
+Submitted by: **Marissa Langham**
 
-**Wordle** is an app that ... [TODO] 
+**Wordle** is an game app that lets players have a set number of attempts to guess a word, with feedback given for each guess in the form of colored tiles indicating when letters match or occupy the correct position. Users can even make the game have word themes and make the game harder by selecting "alien wordle" in settings.
 
-Time spent: **5** hours spent in total
+Time spent: **4/5** hours spent in total
 
 ## Required Features
 
