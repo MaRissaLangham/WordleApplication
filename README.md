@@ -32,9 +32,6 @@ Here's a walkthrough of my Wordble App!
 <a href="https://sendspark.com/share/d4qv7rkf48smumrl">
     <img src="https://thumbnail.sendspark.com/animated/7o1xj7i7atftr60mjej1rypzxwnp04w2.227c8ab5751abe3cadeaaab0e21f7cebb3c860c2/sendspark-animated-thumbnail-7o1xj7i7.gif" alt="Animated thumbnail for video" style="width: 100%;" >
           </a>
-        
-  
-  
 
 ## License
 
