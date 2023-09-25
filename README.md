@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of my Wordble App!
 
 <a href="https://sendspark.com/embed/7o1xj7i7atftr60mjej1rypzxwnp04w2">
-    <img styles"max-width:300px;" srcs"https://sendspark.com/embed/7o1xj7i7atftr60mjej1rypzxwnp04w2>
+    <img styles"max-width:300px;" srcs"https://sendspark-animated-thumbnail-7o1xj7i7.gif>
 </a>
 
 ## License
